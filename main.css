@@ -120,3 +120,7 @@ section h2 {
 #culture .articles article a {
     background-color: rgba(250, 0, 30, 0.7);
 }
+
+.creation-date {
+    color: #ccc;
+}
